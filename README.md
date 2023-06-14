@@ -1,6 +1,6 @@
 # Hi, i'm Fredson Luiz! 😄
 
-## 🧪 Backend Software Engineer 💻
+## 🧪 Backend Software Developer 💻
 
 <h3>Main Language and others</h3>
 <p>
