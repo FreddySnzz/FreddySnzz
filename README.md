@@ -1,6 +1,11 @@
-# Hi, i'm Fredson Luiz! 😄
 
-## 🧪 Fullstack Developer 💻
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Olá!+Sou+Fredson+Luiz+😄;Bem-vindo(a)+ao+meu+GitHub+🐈‍⬛;🧪+Desenvolvedor+Javascript+Fullstack+💻)](https://git.io/typing-svg)
+  
+</div>
+
+<!-- ## 🧪 Fullstack Developer 💻 -->
 
 <h3>Main Language and others</h3>
 <p>
@@ -11,24 +16,25 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
 </p>
 
-<h3>Javascript Frameworks</h3>
+<h3>Javascript Frameworks & Libs</h3>
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=express&Color=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
  </p>
  
-<h3>Other Javascript Libs</h3>
+<!-- <h3>Other Javascript Libs</h3>
 <p>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-</p>
+  
+</p> -->
 
-<h3>ORM's</h3>
+<!-- <h3>ORM's</h3>
 <p>
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-333?style=flat-square&logo=sequelize&Color=white" />
   <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff" />
-</p>
+</p> -->
 
 <h3>Tools</h3>
 <p>
@@ -53,5 +59,30 @@
 </p>
 
 ### Contacts
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fredson-luiz/)
-[![Gmail Badge](https://img.shields.io/badge/-fredsonluiz.03@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredsonluiz.03@gmail.com)](mailto:fredsonluiz.03@gmail.com)
+<hr></hr>
+<div align="center">
+  
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fredson-luiz/)
+  [![Gmail Badge](https://img.shields.io/badge/-fredsonluiz.03@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredsonluiz.03@gmail.com)](mailto:fredsonluiz.03@gmail.com)
+  
+</div>
+
+<hr></hr>
+
+<!-- Main language -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FreddySnzz&theme=radical&_border=false" alt="GitHub Streak" height="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddySnzz&theme=radical&layout=compact&langs_count=20&hide=&cache_seconds=60" alt="Top Langs" width="300" height="300"/>
+</p>
+
+<!-- Code Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddySnzz&show_icons=true&theme=radical" alt="FreddySnzz Stats">
+</p> -->
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FreddySnzz.FreddySnzz&left_color=darkblue&right_color=orchid" width="80" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:759BFF,100:001147"/>
