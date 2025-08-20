@@ -1,9 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:759BFF,100:001147"/>
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Olá!+Sou+Fredson+Luiz+😄;Bem-vindo(a)+ao+meu+GitHub+🐈‍⬛;🧪+Desenvolvedor+Javascript+Fullstack+💻)](https://git.io/typing-svg)
   
 </div>
+
+<hr></hr>
 
 <!-- ## 🧪 Fullstack Developer 💻 -->
 
