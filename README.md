@@ -26,6 +26,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img alt="Shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
  </p>
  
 <!-- <h3>Other Javascript Libs</h3>
@@ -41,16 +42,24 @@
 
 <h3>Tools</h3>
 <p>
-  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visualstudiocode&Color=white" />
+  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> <br>
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" />
   <img alt="Datagod" src="https://img.shields.io/badge/-Datadog-640D83?style=flat-square&logo=datadog&Color=white" />
   <img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMq-fff?style=flat-square&logo=rabbitmq&Color=#2F75DE" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <br>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/>
+  <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
+  <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/> <br>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
 </p>
 
 <h3>Databases</h3>
@@ -59,12 +68,15 @@
   <img alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
   <img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img alt="sql-server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
 </p>
 
 ### Contacts
 <hr></hr>
 <div align="center">
   
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox)](https://www.google.com)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fredson-luiz/)
   [![Gmail Badge](https://img.shields.io/badge/-fredsonluiz.03@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredsonluiz.03@gmail.com)](mailto:fredsonluiz.03@gmail.com)
   
