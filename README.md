@@ -60,6 +60,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
 </p>
 
 <h3>Databases</h3>
