@@ -77,7 +77,7 @@
 <hr></hr>
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox)](#on-progress)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox)](https://portfolio-freddy-snzz.vercel.app/)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fredson-luiz/)
   [![Gmail Badge](https://img.shields.io/badge/-fredsonluiz.03@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredsonluiz.03@gmail.com)](mailto:fredsonluiz.03@gmail.com)
   
